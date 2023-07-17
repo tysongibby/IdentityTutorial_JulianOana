@@ -1,12 +1,7 @@
 # IdentityTutorial_JulianOana
 https://youtu.be/5UfJeDcoC1k
 
-Support for ASP.NET Core Identity was added to your project.
-
-For setup and configuration information, see https://go.microsoft.com/fwlink/?linkid=2116645.
-
-
-In OAuth 2.0 terms
+OAuth 2.0 terms
 
 Principal:
    - A principal is an an entity that can be authenticated in a system and then, after authorization, assigned permissions.
